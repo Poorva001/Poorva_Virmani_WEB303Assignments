@@ -1,5 +1,6 @@
-// WEB303 Assignment 2
-// WEB303 Assignment 2
+//WEB303 Assignment 2
+//Name - Poorva Virmani
+//StudentID - W0816105
 $(document).ready(function () {
   const content = $("#content");
 
