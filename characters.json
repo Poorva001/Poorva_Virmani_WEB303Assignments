@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Raymond",
+        "lastName": "Barone",
+        "gender": "Male",
+        "role": "Sportswriter",
+        "age": 40
+    },
+    {
+        "firstName": "Debra",
+        "lastName": "Barone",
+        "gender": "Female",
+        "role": "Homemaker",
+        "age": 38
+    },
+    {
+        "firstName": "Robert",
+        "lastName": "Barone",
+        "gender": "Male",
+        "role": "Police Officer",
+        "age": 42
+    },
+    {
+        "firstName": "Marie",
+        "lastName": "Barone",
+        "gender": "Female",
+        "role": "Housewife",
+        "age": 70
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Barone",
+        "gender": "Male",
+        "role": "Retired",
+        "age": 72
+    },
+    {
+        "firstName": "Ally",
+        "lastName": "Barone",
+        "gender": "Female",
+        "role": "Student",
+        "age": 12
+    },
+    {
+        "firstName": "Amy",
+        "lastName": "MacDougall",
+        "gender": "Female",
+        "role": "Editor",
+        "age": 35
+    }
+]

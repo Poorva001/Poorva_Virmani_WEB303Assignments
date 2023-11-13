@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #D3E07F; /* Light Green */
+    color: #3D405B; /* Dark Blue-Gray */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #362f15; /* Yellow */
+}
+
+label, th, td {
+    color: #3D405B; /* Dark Blue-Gray */
+}
+
+input, button {
+    padding: 8px;
+    margin: 4px;
+    border: none;
+    background-color: #81B29A; /* Green */
+    color: #F4D35E; /* Yellow */
+    cursor: pointer;
+}
+
+input::placeholder {
+    color: #3D405B; /* Dark Blue-Gray */
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%; /* Slightly smaller table */
+    margin: 20px auto;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #F4D35E; /* Yellow */
+}
+
+.highlight {
+    background-color: #81B29A; /* Green */
+    color: #F4D35E; /* Yellow */
+}
