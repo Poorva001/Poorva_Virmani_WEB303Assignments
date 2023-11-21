@@ -1,0 +1,52 @@
+  [
+    {
+      "firstName": "Ray",
+      "lastName": "Romano",
+      "gender": "Male",
+      "role": "Ray Barone",
+      "age": 66,
+      "dob": "1957-12-21"
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Heaton",
+      "gender": "Female",
+      "role": "Debra Barone",
+      "age": 65,
+      "dob": "1958-03-04"
+    },
+    {
+      "firstName": "Brad",
+      "lastName": "Garrett",
+      "gender": "Male",
+      "role": "Robert Barone",
+      "age": 62,
+      "dob": "1960-04-14"
+    },
+    {
+      "firstName": "Doris",
+      "lastName": "Roberts",
+      "gender": "Female",
+      "role": "Marie Barone",
+      "age": 97,
+      "dob": "1925-11-04",
+      "dateOfDeath": "2016-04-17"
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Boyle",
+      "gender": "Male",
+      "role": "Frank Barone",
+      "age": 71,
+      "dob": "1935-10-18",
+      "dateOfDeath": "2006-12-12"
+    },
+    {
+      "firstName": "Monica",
+      "lastName": "Horan",
+      "gender": "Female",
+      "role": "Amy MacDougall Barone",
+      "age": 60,
+      "dob": "1963-01-29"
+    }
+  ]  
